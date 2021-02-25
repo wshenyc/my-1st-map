@@ -17,8 +17,13 @@ body {
   font-family: 'Trebuchet MS', sans-serif;
   color: #017081;
 }
+
 .intro a:hover {
   color: #00252f;
+}
+
+.intro p {
+  font-size: 15px;
 }
 
 #mapContainer {

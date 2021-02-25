@@ -4,8 +4,8 @@ mapboxgl.accessToken = 'pk.eyJ1Ijoid3NoZW55YyIsImEiOiJja2w3YjNvd3YxZnc1Mm5wZWp1M
 var map = new mapboxgl.Map({
   container: 'mapContainer', // container ID
   style: 'mapbox://styles/mapbox/light-v10', // style URL
-  center: [6.788837657629339, 39.828117667000484], // starting position [lng, lat]
-  zoom: 0.5 // starting zoom
+  center: [6.788837657629339, 15.828117667000484], // starting position [lng, lat]
+  zoom: 1 // starting zoom
 });
 
 
